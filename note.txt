@@ -1,0 +1,25 @@
+
+A simple counter App.
+Project 3/20
+
+Project Description
+This project is simple  couter app created with HTML, CSS (BOOTSTRAP included) and JAVASCRIPT. 
+The JavaScript aspect basically declaring a variable counter, then decrementing and incrementing 
+the variable onclick of the + and - button.
+Viola! Thats all!
+
+Hosted Project
+ (Hosted on  Vercel)
+
+Source Files
+https://github.com/ (Hosted on Github)
+
+Project Objective
+The objective of this JavaScript Project to practice the following:
+
+Functional Programming
+If/else statements
+
+Time spent on code:
+less than 20 minutes
+
